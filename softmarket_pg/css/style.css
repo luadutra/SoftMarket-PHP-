@@ -1,0 +1,151 @@
+.none {
+	display: none;
+}
+
+.middle {
+	vertical-align: middle !important;
+}
+
+.border {
+	border: solid 1px  !important;
+}
+
+.border-gray {
+	border: solid 1px gray !important;
+}
+
+.bold {
+	font-weight: bold !important;
+}
+
+.pointer {
+	cursor: pointer !important;
+}
+
+.align-center {
+	align-self: center !important;
+}
+
+.menu {
+	width:600px;
+	height:350px;
+	margin:20px auto;
+}
+	
+.caixa_login {
+	width:500px;
+	height:350px;
+	margin:20px auto;
+}
+	
+.table {
+	width:500px;
+	height:350px;
+	margin:20px auto;
+}
+
+.color-white {
+	color: white;
+}
+
+.color-green {
+	color: forestgreen;
+}
+
+.color-blue {
+	color: #007bff;
+}
+
+.color-red {
+	color: red;
+}
+
+.font-20 {
+	font-size: 20px !important;
+}
+
+.font-30 {
+	font-size: 30px !important;
+}
+
+.bg-gradiente {
+	background-image: linear-gradient(to right, #61fb76a8 , #fffe64b3 );
+}
+
+.bg-orange {
+    background: #f6961e !important;
+	border-color: #f6961e !important;
+	color: black !important;
+}
+
+.bg-orange:hover {
+	background: gray !important;
+	border-color: gray !important;
+	color:white !important;
+}
+
+.btn-close {
+	position: absolute;
+    font-size: 25px;
+    right: 30px;
+}
+
+.btn-home {
+	font-size: 20px;
+    background: #e0fd67;
+    border-radius: 14px;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-weight: bold;
+    border: 1px solid;
+}
+
+.btn-opcoes {
+	font-size: 60px;
+    background: #e0fd67;
+    border-radius: 70px;
+    padding: 20px 18px;
+	cursor: pointer;
+	border: 1px solid;
+}
+
+.btn-item-produto {
+	font-size: 25px;
+    background: #e0fd67;
+    border-radius: 10px;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-weight: bold;
+	border: 1px solid;
+}
+
+.btn-opcoes:hover,
+.btn-home:hover,
+.btn-item-produto:hover {
+    background: #f6961e;
+}
+
+.text-logo {
+	color: darkorange;
+    text-shadow: 0.1em 0.1em 0.2em darkgrey;
+    margin-top: 1px;
+    font-size: 28px;
+}
+
+.pd-btn {
+	padding: 20px 20px !important;
+	margin-right: 10px;
+}
+
+.arrow-down {
+	font-size: 18px !important;
+    margin-left: 10px !important;
+}
+
+.item-menu-produtos:hover {
+	font-weight: bold;
+}
+
+.form-group select {
+    height: auto !important;
+}
